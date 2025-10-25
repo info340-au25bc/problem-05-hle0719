@@ -34,7 +34,6 @@ let huskyGames2016 = [
  ];
 
 
-
 //Define a function `extractOpponent()` that takes in a "game" object and returns
 //UW's opponent (whether or not that was the home team!)
 //You can test this by passing in an individual element from the array.
